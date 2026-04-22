@@ -27,7 +27,7 @@ const About = () => {
           {/* Avatar placeholder */}
           <div className="flex justify-center">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-2xl bg-secondary border border-border flex items-center justify-center overflow-hidden">
-              <img src="/profile-photo.jpg" alt="Your Name" className="w-full h-full object-cover" />
+              <img src="/profile-photo.jpeg" alt="Your Name" className="w-full h-full object-cover" />
             </div>
           </div>
 
